@@ -1,0 +1,434 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+/*Large devices*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-section:after {
+    position: relative;
+  }
+  .msg-body h2 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+  .msg-body img {
+    margin-bottom: 35px;
+  }
+  .contact-map h4.text-center {
+    font-size: 48px;
+  }
+  .bg-contact-fileds {
+    padding: 85px 45px;
+    margin: 50px 0 140px;
+  }
+  .contact-map img {
+    object-fit: cover;
+  }
+  .grab-head {
+    margin-top: 75px;
+  }
+  .step-down h4 {
+    margin-left: 30px;
+    font-size: 30px;
+    line-height: 45px;
+    top: -25px;
+  }
+  .header-section.home {
+    height: auto;
+  }
+  .home-left h1 {
+    font-size: 50px;
+    line-height: 65px;
+  }
+  .client-logo ul li img {
+    width: 90px;
+  }
+  .client-logo ul li {
+    margin-left: 35px;
+  }
+  .client-section {
+    margin-top: 100px;
+  }
+  .partner.text-center {
+    margin-top: 75px;
+  }
+  .partner.text-center h4 {
+    font-size: 34px;
+    line-height: 45px;
+  }
+  .partner.text-center p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .main-icon-box {
+    margin-top: 50px;
+  }
+  .icon-box h5 {
+    font-size: 20px;
+  }
+  .grab-coupon {
+    margin-top: 100px;
+  }
+  .grab-head h4 {
+    font-size: 24px;
+    line-height: inherit;
+    margin-bottom: 10px;
+  }
+  .grab-head ol li span.list-items {
+    width: 79%;
+  }
+  .iconbox-step h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .iconbox-step p {
+    font-size: 13px;
+    margin-top: 15px;
+  }
+  .quote-text.text-center h4 {
+    font-size: 33px;
+    line-height: 42px;
+  }
+  .testmonial li.namedis,
+  .testmonial.odd li.imagename {
+    width: 60%;
+    margin-top: 15px;
+  }
+  .testmonial li.imagename,
+  .testmonial.odd li.namedis {
+    float: left;
+    width: 40%;
+  }
+  .testmonial li.namedis h5 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  footer.footer-section {
+    padding-top: 20px;
+  }
+  .header-section {
+    height: 300px;
+  }
+  .about-head h3 {
+    font-size: 35px;
+    line-height: 67px;
+    letter-spacing: inherit;
+    padding-right: 0;
+  }
+  .marchent h3 {
+    font-size: 35px;
+}
+  .about-head-icon p {
+    font-size: 22px;
+  }
+  .about-head-icon span {
+    margin-top: 5px;
+  }
+  .our-object {
+    margin-top: 80px;
+  }
+  .our-client p {
+    margin-top: 0;
+  }
+  .our-client h4 {
+    font-size: 38px;
+    line-height: 55px;
+    margin-bottom: 92px;
+  }
+  .founder-message {
+    margin-top: 100px;
+  }
+  .founder-message h4 {
+    font-size: 32px;
+    line-height: inherit;
+    margin-bottom: 0;
+  }
+  .founder-message q {
+    font-size: 20px;
+    line-height: 38px;
+  }
+  .object-paragraph h4 {
+    font-size: 35px;
+    line-height: 41px;
+    margin-top: 18px;
+  }
+  .customer-service h4,
+  .machine-learning h4 {
+    font-size: 15px;
+    line-height: 32px;
+    margin-top: 0;
+  }
+  .customer-service p,
+  .machine-learning p {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .our-client {
+    margin-top: 30px;
+  }
+  .faq-heading.text-center h1 {
+    margin-top: 0;
+    font-size: 30px;
+    margin-bottom: 90px;
+  }
+  .accordion .card:first-child {
+    border-top: 1px solid #d6d6d6;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+  .header-section.faq {
+    height: 400px;
+  }
+  header.header-section.contact {
+    height: 400px;
+  }
+  .tab-pane-main div#myTabContent {
+    padding-right: 0;
+  }
+  .tab-pane-main {
+    width: 100%;
+  }
+  .copyfooter,
+  .footer-logo {
+    text-align: center;
+  }
+}
+/*Medium devices*/
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .bg-contact-fileds {
+    padding: 45px 0;
+    margin: 35px 0;
+    text-align: center;
+  }
+  .contact-map img {
+    object-fit: cover;
+  }
+  .contact-map {
+    margin-top: 500px;
+  }
+  .contact-map h4.text-center {
+    font-size: 40px;
+  }
+  .tab-pane-main div#myTabContent {
+    padding-right: 0;
+    margin-top: 30px;
+  }
+  .tab-pane-main {
+    width: inherit;
+  }
+  .tab-pane-main div#myTabContent {
+    padding-right: 0;
+    margin-top: 30px;
+  }
+  .nav-pills .nav-link.active:before {
+    left: 0;
+  }
+  .msg-body h2 {
+    font-size: 26px;
+    line-height: 40px;
+  }
+  .msg-body p {
+    margin-bottom: 45px;
+  }
+  .email {
+    margin-bottom: 40px;
+  }
+  .about-head h3 {
+    font-size: 36px;
+    line-height: 54px;
+    padding-right: 0;
+    letter-spacing: inherit;
+  }
+  .about-head p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .about-head-icon,
+  .object-paragraph {
+    padding-left: 0;
+  }
+  .marchent {
+    margin-top: 30px;
+  }
+  .our-object {
+    margin-top: 50px;
+  }
+  .col-small {
+    width: 50%;
+  }
+  .object-paragraph {
+    margin-top: 56px;
+  }
+  .object-paragraph .col-small p {
+    font-size: 19px;
+  }
+  .object-paragraph h4 {
+    font-size: 38px;
+    line-height: 45px;
+    margin-top: 25px;
+  }
+  .object-paragraph p.paraghrap-aliq {
+    margin-bottom: 10px;
+  }
+  .customer-service p,
+  .machine-learning p {
+    margin-bottom: 0;
+  }
+  .our-client p {
+    font-size: 22px;
+    margin-top: 50px;
+  }
+  .our-client h4 {
+    font-size: 31px;
+    line-height: 44px;
+    margin-bottom: 47px;
+  }
+  .client-logo ul li {
+    display: block;
+    margin-left: 0;
+    margin-bottom: 33px;
+  }
+  .founder-message {
+    margin-top: 0;
+    text-align: center;
+  }
+  .founder-message h4 {
+    font-size: 34px;
+    line-height: 48px;
+    margin-bottom: 10px;
+  }
+  .founder-message q {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .home-left h1 {
+    font-size: 38px;
+    line-height: 54px;
+  }
+  .home-left p {
+    font-size: 20px;
+    line-height: 40px;
+    margin-bottom: 25px;
+  }
+  .app-img {
+    margin-top: 0;
+  }
+  .app-img img {
+    width: 162px;
+    height: 50px;
+    margin-right: 0;
+  }
+  .client-section {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .img-bg img {
+    margin-top: 40px;
+  }
+  .partner.text-center {
+    margin-top: 0;
+  }
+  .partner.text-center h4 {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 32px;
+  }
+  .main-icon-box {
+    margin-top: 40px;
+  }
+  .grab-head h4 {
+    font-size: 24px;
+    line-height: inherit;
+    margin-bottom: 0px;
+  }
+  .grab-head {
+    margin-top: 0;
+  }
+  .marchent h3 {
+    font-size: 35px;
+    line-height: 35px;
+}
+  .grab-head ol li span.list-items {
+    width: 79%;
+  }
+  .step-down {
+    margin-top: 0;
+    padding-top: 150px;
+    height: auto;
+  }
+  .step-down h4 {
+    margin-left: 30px;
+    font-size: 30px;
+    line-height: 45px;
+    top: 75px;
+  }
+  .step-down .iconbox-step {
+    margin-top: 25px;
+  }
+  .quote-text.text-center h4 {
+    font-size: 26px;
+    line-height: 36px;
+    margin-bottom: 25px;
+  }
+  .testmonial.odd {
+    width: 100%;
+  }
+  .testmonial.odd li.namedis,
+  .testmonial li.namedis {
+    width: 55%;
+    margin-top: 4px;
+  }
+  .testmonial.odd li.imagename,
+  .testmonial li.imagename {
+    width: 45%;
+  }
+  .testmonial li.namedis h5 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .grab-coupon {
+    margin-top: 0;
+  }
+
+  .footer-logo,
+  .copyfooter {
+    text-align: center;
+  }
+  footer.footer-section {
+    padding-top: 20px;
+  }
+  .faq-heading.text-center h1 {
+    font-size: 24px;
+    margin-top: -38px;
+    line-height: inherit;
+    margin-bottom: 54px;
+  }
+  .header-section {
+    height: 300px;
+  }
+  .header-section.home {
+    height: auto;
+  }
+  div.accordion .card-header button.btn.btn-link {
+    font-size: 14px;
+  }
+  .faq-section .accordion i {
+    font-size: 11px;
+    line-height: 27px;
+    padding: 0 8px;
+    margin-top: 5px;
+  }
+  div.collapse .card-body p {
+    font-size: 14px;
+  }
+  div#accordionExample {
+    width: inherit;
+  }
+  .header-section:after {
+    position: inherit;
+  }
+  .accordion .card:first-child {
+    border-top: 1px solid #d6d6d6;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+}
