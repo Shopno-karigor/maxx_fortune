@@ -8,7 +8,19 @@ use Illuminate\Http\Request;
 class IndexController extends Controller
 {
     //
-    public function index(){
+    public function home_index(){
         return view('frontend.home');
+    }
+    public function about_us_index(){
+        return view('frontend.about-us');
+    }
+    public function contact_index(){
+        return view('frontend.contact');
+    }
+    public function faq_index(){
+        return view('frontend.faq');
+    }
+    public function terms_index(){
+        return view('frontend.terms');
     }
 }

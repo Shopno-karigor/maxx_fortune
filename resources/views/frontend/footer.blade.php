@@ -10,8 +10,8 @@
                 <img src="images/logo.png" alt="logo.png" />
               </div>
               <div class="copyfooter">
-                &copy; 2020 Copyright:
-                <a class="e-wallet" href="#">e-wallet</a> All Rights Reserved
+                &copy; 2022 Copyright:
+                <a class="e-wallet" href="#">Maxx Fortune</a> All Rights Reserved
               </div>
               <!-- Copyright -->
             </div>
@@ -22,19 +22,13 @@
               <div class="socil-icon">
                 <ul class="list-unstyled mb-0">
                   <li>
-                    <a href="#!" class="text-white"
-                      ><i class="fa fa-facebook" aria-hidden="true"></i
-                    ></a>
+                    <a href="#!" class="text-white"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white"
-                      ><i class="fa fa-twitter" aria-hidden="true"></i
-                    ></a>
+                    <a href="#!" class="text-white"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white"
-                      ><i class="fa fa-instagram" aria-hidden="true"></i
-                    ></a>
+                    <a href="#!" class="text-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                   </li>
                 </ul>
               </div>
@@ -46,16 +40,16 @@
               <div class="footer-menu">
                 <ul class="list-unstyled">
                   <li>
-                    <a href="about-us.html">About us</a>
+                    <a href="{{route('about-us')}}">About us</a>
                   </li>
                   <li>
-                    <a href="terms.html">Terms &amp; Policy</a>
+                    <a href="{{route('terms')}}">Terms &amp; Policy</a>
                   </li>
                   <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="{{route('contact')}}">Contact</a>
                   </li>
                   <li>
-                    <a href="faq.html">Faq</a>
+                    <a href="{{route('faq')}}">Faq</a>
                   </li>
                 </ul>
               </div>

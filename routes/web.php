@@ -14,4 +14,8 @@ use App\Http\Controllers\IndexController;
 |
 */
 
-Route::get('/',[IndexController::class, 'index'])->name('/');
+Route::get('/',[IndexController::class, 'home_index'])->name('/');
+Route::get('About_Us',[IndexController::class, 'about_us_index'])->name('about-us');
+Route::get('Contact',[IndexController::class, 'contact_index'])->name('contact');
+Route::get('FAQ',[IndexController::class, 'faq_index'])->name('faq');
+Route::get('Terms&Condition',[IndexController::class, 'terms_index'])->name('terms');
