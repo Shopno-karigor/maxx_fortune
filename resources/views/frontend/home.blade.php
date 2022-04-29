@@ -1,40 +1,41 @@
 @extends('frontend.master')
   @section('home')
-        <!-- header start  -->
-        <header class="header-section home">
-          @include('frontend.nav')
-          <div class="home-area">
-            <div class="container">
-              <div class="row">
-                <div class="col-sm-6">
-                  <div class="home-left">
-                    <h1>
-                      Scratch
-                      <span>
-                        Away <br/> & Get
-                      </span>
-                      <img src="{{asset('images/ich.png')}}" alt="ich.png" />
-                      Rewards
-                    </h1>
-                    <p>
-                      Proactively iterate mission-critical processes through impactful potentialities.
-                    </p>
-                    <div class="app-img">
-                      <img src="{{asset('images/app.png')}}" alt="app.png" />
-                      <img src="{{asset('images/google.png')}}" alt="google.png" />
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="img-bg">
-                    <img src="{{asset('images/bg-head.png')}}" alt="bg-head.png" />
-                  </div>
+    <title>Maxx Fortune | Home</title>
+    <!-- header start  -->
+    <header class="header-section home">
+      @include('frontend.nav')
+      <div class="home-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="home-left">
+                <h1>
+                  Scratch
+                  <span>
+                    Away <br/> & Get
+                  </span>
+                  <img src="{{asset('images/ich.png')}}" alt="ich.png" />
+                  Rewards
+                </h1>
+                <p>
+                  Proactively iterate mission-critical processes through impactful potentialities.
+                </p>
+                <div class="app-img">
+                  <img src="{{asset('images/app.png')}}" alt="app.png" />
+                  <img src="{{asset('images/google.png')}}" alt="google.png" />
                 </div>
               </div>
             </div>
+            <div class="col-sm-6">
+              <div class="img-bg">
+                <img src="{{asset('images/bg-head.png')}}" alt="bg-head.png" />
+              </div>
+            </div>
           </div>
-        </header>
-        <!-- header end -->
+        </div>
+      </div>
+    </header>
+    <!-- header end -->
     <!-- about start  -->
     <div class="client-section">
       <div class="container">

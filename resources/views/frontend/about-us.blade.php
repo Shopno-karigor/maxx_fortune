@@ -1,6 +1,6 @@
 @extends('frontend.master')
   @section('about-us')
-  <body>
+    <title>Maxx Fortune | About Us</title>
     <!-- header start  -->
     <header class="header-section">
       @include('frontend.nav')

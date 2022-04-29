@@ -1,8 +1,10 @@
 <!DOCTYPE html>
   <html>
     @include('frontend.header')
-    @yield('home')
-    @yield('about-us')
-    @include('frontend.footer')
+    <body>
+        @yield('home')
+        @yield('about-us')
+        @include('frontend.footer')
+    <body>
     @include('frontend.footer-script')
  </html>

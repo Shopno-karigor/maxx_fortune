@@ -7,10 +7,7 @@
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav ml-md-auto d-md-flex">
           <li class="nav-item">
-            <a class="nav-link" href="{{route('about-us')}}">
-              About Us
-              <span class="sr-only">(current)</span>
-            </a>
+            <a class="nav-link" href="{{route('about-us')}}">About Us <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{route('contact')}}">Contact</a>
