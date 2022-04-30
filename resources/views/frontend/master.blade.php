@@ -4,7 +4,8 @@
     <body>
         @yield('home')
         @yield('about-us')
+        @yield('contact-us')
         @include('frontend.footer')
-    <body>
+    </body>
     @include('frontend.footer-script')
  </html>
