@@ -1,5 +1,5 @@
 @extends('frontend.master')
-  @section('contact-us')
+  @section('faq')
     <title>Maxx Fortune | FAQ</title>
     <!-- header start  -->
     <header class="header-section">

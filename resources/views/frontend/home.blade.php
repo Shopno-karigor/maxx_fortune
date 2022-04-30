@@ -44,19 +44,19 @@
             <div class="client-logo">
               <ul>
                 <li>
-                  <a href="#"><img src="images/AirbnbLogo.png" alt="AirbnbLogo.png"/></a>
+                  <a href="#"><img src="{{asset('images/AirbnbLogo.png')}}" alt="AirbnbLogo.png"/></a>
                 </li>
                 <li>
-                  <a href="#"><img src="images/GoogleLogo.png" alt="GoogleLogo.png"/></a>
+                  <a href="#"><img src="{{asset('images/GoogleLogo.png')}}" alt="GoogleLogo.png"/></a>
                 </li>
                 <li>
-                  <a href="#"><img src="images/MicrosoftLogo.png" alt="MicrosoftLogo.png"/></a>
+                  <a href="#"><img src="{{asset('images/MicrosoftLogo.png')}}" alt="MicrosoftLogo.png"/></a>
                 </li>
                 <li>
-                  <a href="#"><img src="images/WalmartLogo.png" alt="WalmartLogo.png"/></a>
+                  <a href="#"><img src="{{asset('images/WalmartLogo.png')}}" alt="WalmartLogo.png"/></a>
                 </li>
                 <li>
-                  <a href="#"><img src="images/amazonLogo.png" alt="amazonLogo.png"/></a>
+                  <a href="#"><img src="{{asset('images/amazonLogo.png')}}" alt="amazonLogo.png"/></a>
                 </li>
               </ul>
             </div>
@@ -69,7 +69,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="partner text-center">
-              <img src="images/starticon.png" alt="starticon.png" />
+              <img src="{{asset('images/starticon.png')}}" alt="starticon.png" />
               <h4>
                 <span>100+ Partners</span> have already with <br />
                 us to <span>Give out Rewards</span>
@@ -85,21 +85,21 @@
           <div class="row">
             <div class="col-sm-4">
               <div class="icon-box">
-                <img src="images/icon2.png" alt="icon2.png" />
+                <img src="{{asset('images/icon2.png')}}" alt="icon2.png" />
                 <h5>Unlimited Scratchs</h5>
                 <p>Amet minim mollit non deserunt eco estsit aliqua amet.</p>
               </div>
             </div>
             <div class="col-sm-4">
               <div class="icon-box">
-                <img src="images/icon3.png" alt="icon3.png" />
+                <img src="{{asset('images/icon3.png')}}" alt="icon3.png" />
                 <h5>Daily Rewards</h5>
                 <p>Amet minim mollit non deserunt eco estsit amet sintelit.</p>
               </div>
             </div>
             <div class="col-sm-4">
               <div class="icon-box">
-                <img src="images/icon4.png" alt="icon4.png" />
+                <img src="{{asset('images/icon4.png')}}" alt="icon4.png" />
                 <h5>Special Campaign</h5>
                 <p>Amet minim mollit non deserunt eco estsit aliqua amet.</p>
               </div>
@@ -113,7 +113,7 @@
         <div class="row">
           <div class="col-sm-6">
             <div class="img-left">
-              <img src="images/home-left.png" alt="home-left" />
+              <img src="{{asset('images/home-left.png')}}" alt="home-left" />
             </div>
           </div>
           <div class="col-sm-6">
@@ -168,31 +168,28 @@
           <div class="row">
             <div class="col-sm-3">
               <div class="iconbox-step even">
-                <img src="images/%e5%a5%96%e6%9d%af_trophy.png" alt="奖杯_trophy.png" />
+                <img src="{{asset('images/%e5%a5%96%e6%9d%af_trophy.png')}}" alt="奖杯_trophy.png" />
                 <h3>Scratch & Win Reward</h3>
                 <p>The gateway to sustainability lies in the energy storage.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step odd">
-                <img src="images/%e9%92%b1%e5%8c%85_wallets.png" alt="钱包_wallets.png" />
+                <img src="{{asset('images/%e9%92%b1%e5%8c%85_wallets.png')}}" alt="钱包_wallets.png" />
                 <h3>Collect Reward in Wallet</h3>
                 <p>The gateway to sustainability lies in the energy storage.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step even">
-                <img
-                  src="images/%e5%ba%94%e7%94%a8_application.png"
-                  alt="应用_application.png"
-                />
+                <img src="{{asset('images/%e5%ba%94%e7%94%a8_application.png')}}" alt="应用_application.png"/>
                 <h3>Go to Nearest Shops</h3>
                 <p>The gateway to sustainability lies in the energy storage.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step odd">
-                <img src="images/%e6%b3%95%e6%a1%88_bill.png" alt="法案_bill.png" />
+                <img src="{{asset('images/%e6%b3%95%e6%a1%88_bill.png')}}" alt="法案_bill.png" />
                 <h3>Redeem Token from Shop</h3>
                 <p>The gateway to sustainability lies in the energy storage.</p>
               </div>
@@ -205,15 +202,11 @@
     <div class="happy-client">
       <div class="container">
         <div class="quote-text text-center">
-          <img src="images/zmdi_quote.png" alt="zmdi_quote.png" />
+          <img src="{{asset('images/zmdi_quote.png')}}" alt="zmdi_quote.png" />
           <h4>
             What Our Happy <br />
             Clients Say
-            <img
-              class="starIcon"
-              src="images/starticon.png"
-              alt="starticon.png"
-            />
+            <img class="starIcon" src="{{asset('images/starticon.png')}}" alt="starticon.png"/>
           </h4>
         </div>
         <div class="testmonial-clients">
@@ -222,7 +215,7 @@
               <div class="testmonial">
                 <ul>
                   <li class="imagename">
-                    <img src="images/Mask.png" alt="Mask" />
+                    <img src="{{asset('images/Mask.png')}}" alt="Mask" />
                   </li>
                   <li class="namedis">
                     <h5>Elwin Sharvill</h5>
@@ -238,7 +231,7 @@
               <div class="testmonial odd">
                 <ul>
                   <li class="imagename">
-                    <img src="images/Mask2.png" alt="Mask" />
+                    <img src="{{asset('images/Mask2.png')}}" alt="Mask" />
                   </li>
                   <li class="namedis">
                     <h5>Bernarr Dominik</h5>
@@ -255,7 +248,7 @@
               <div class="testmonial full">
                 <ul>
                   <li class="imagename">
-                    <img src="images/Mask.png" alt="Mask" />
+                    <img src="{{asset('images/Mask.png')}}" alt="Mask" />
                   </li>
                   <li class="namedis">
                     <h5>Leonetta Lloyd</h5>
@@ -271,7 +264,7 @@
                 >
               </div>
               <div class="rating">
-                <img src="images/rating.png" alt="rating.png" />
+                <img src="{{asset('images/rating.png')}}" alt="rating.png" />
               </div>
             </div>
           </div>

@@ -20,8 +20,7 @@
             <div class="about-head">
               <h3>We have Achive this.</h3>
               <p>
-                In episode 66, Chris Do talks with art director, illustrator and
-                public speaker, Hank Washington.
+                In episode 66, Chris Do talks with art director, illustrator and public speaker, Hank Washington.
               </p>
             </div>
           </div>
@@ -41,12 +40,10 @@
                   </div>
                 </div>
               </div>
-              <span
-                >They talk about their experience and feelings about public
-                speaking, finding your voice when giving talks, and how to feel
-                at home in the design world as a person of color. make world
-                beatuiful.</span
-              >
+              <span>
+                They talk about their experience and feelings about public speaking, finding your voice when giving talks, and how to feel at home in the design world as a person of color. make world
+                beatuiful.
+                </span>
             </div>
           </div>
         </div>
@@ -56,7 +53,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6">
-            <img src="images/object.png" alt="object.png" />
+            <img src="{{asset('images/object.png')}}" alt="object.png" />
           </div>
           <div class="col-sm-6">
             <div class="object-paragraph">
@@ -66,7 +63,7 @@
                 </div>
                 <div class="col-sm-6 col-small">
                   <div class="star">
-                    <img src="images/icon1.png" alt="icon1.png" />
+                    <img src="{{asset('images/icon1.png')}}" alt="icon1.png" />
                   </div>
                 </div>
               </div>
@@ -133,29 +130,27 @@
               <ul>
                 <li>
                   <a href="#"
-                    ><img src="images/AirbnbLogo.png" alt="AirbnbLogo.png"
+                    ><img src="{{asset('images/AirbnbLogo.png')}}" alt="AirbnbLogo.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="images/GoogleLogo.png" alt="GoogleLogo.png"
+                    ><img src="{{asset('images/GoogleLogo.png')}}" alt="GoogleLogo.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img
-                      src="images/MicrosoftLogo.png"
-                      alt="MicrosoftLogo.png"
+                    ><img src="{{asset('images/MicrosoftLogo.png')}}" alt="MicrosoftLogo.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="images/WalmartLogo.png" alt="WalmartLogo.png"
+                    ><img src="{{asset('images/WalmartLogo.png')}}" alt="WalmartLogo.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="images/amazonLogo.png" alt="amazonLogo.png"
+                    ><img src="{{asset('images/amazonLogo.png')}}" alt="amazonLogo.png"
                   /></a>
                 </li>
               </ul>
@@ -179,7 +174,7 @@
           </div>
           <div class="col-sm-5">
             <div class="man">
-              <img src="images/man.png" alt="man.png" />
+              <img src="{{asset('images/man.png')}}" alt="man.png" />
             </div>
           </div>
         </div>

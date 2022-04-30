@@ -1,5 +1,5 @@
 @extends('frontend.master')
-  @section('contact-us')
+  @section('terms')
     <title>Maxx Fortune | Terms & Conditions</title>
     <!-- header start  -->
     <header class="header-section">
