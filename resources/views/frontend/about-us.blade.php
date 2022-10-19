@@ -121,8 +121,8 @@
       <div class="container">
         <p>OUR CLIENTS</p>
         <h4>
-          <span>Companies that</span> know me well confirm <br />
-          that We are <span>a Great Company.</span>
+          <span>Companies that</span> works with us will confirm <br />
+          that "We are <span>a Great Helping Hand".</span>
         </h4>
         <div class="row">
           <div class="col-sm-12">
@@ -165,11 +165,9 @@
           <div class="col-sm-7">
             <p>Founder Message</p>
             <h4>Users is our Main Priority</h4>
-            <q
-              >The sky was cloudless and of a deep dark blue the spectacle
+            <q>The sky was cloudless and of a deep dark blue the spectacle
               before us was indeed sublime. The sky was cloudless and of a deep
-              dark blue.</q
-            >
+              dark blue.</q>
             <h5>Jason Stephen <span>Ceo of e-wallet app</span></h5>
           </div>
           <div class="col-sm-5">

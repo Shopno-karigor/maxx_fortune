@@ -222,11 +222,9 @@
                     <span>Designer</span>
                   </li>
                 </ul>
-                <q
-                  >But nothing the copy said could convince her and so it didn’t
+                <q>But nothing the copy said could convince her and so it didn’t
                   take long until a few insidious Copy Writers ambushed her,
-                  made her drunk.</q
-                >
+                  made her drunk.</q>
               </div>
               <div class="testmonial odd">
                 <ul>
@@ -238,10 +236,8 @@
                     <span>Dentist</span>
                   </li>
                 </ul>
-                <q
-                  >When she reached the first hills of the Italic Mountains, she
-                  had a last view back on the skyline of her</q
-                >
+                <q>When she reached the first hills of the Italic Mountains, she
+                  had a last view back on the skyline of her</q>
               </div>
             </div>
             <div class="col-sm-6">
@@ -255,13 +251,11 @@
                     <span>Developer</span>
                   </li>
                 </ul>
-                <q
-                  >It is a paradisematic country, in which roasted parts of
+                <q>It is a paradisematic country, in which roasted parts of
                   sentences fly into your mouth. Even the all-powerful Pointing
                   has no control about the blind texts it is an almost
                   unorthographic life One day however a small line of blind
-                  text.</q
-                >
+                  text.</q>
               </div>
               <div class="rating">
                 <img src="{{asset('images/rating.png')}}" alt="rating.png" />
