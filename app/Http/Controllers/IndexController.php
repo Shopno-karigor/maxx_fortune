@@ -17,9 +17,6 @@ class IndexController extends Controller
     public function contact_index(){
         return view('frontend.contact');
     }
-    public function faq_index(){
-        return view('frontend.faq');
-    }
     public function terms_index(){
         return view('frontend.terms');
     }

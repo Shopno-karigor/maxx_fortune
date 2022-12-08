@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\FaqController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,5 +18,5 @@ use App\Http\Controllers\IndexController;
 Route::get('/',[IndexController::class, 'home_index'])->name('/');
 Route::get('About_Us',[IndexController::class, 'about_us_index'])->name('about-us');
 Route::get('Contact',[IndexController::class, 'contact_index'])->name('contact');
-Route::get('FAQ',[IndexController::class, 'faq_index'])->name('faq');
+Route::get('FAQ',[FaqController::class, 'show'])->name('faq');
 Route::get('Terms&Condition',[IndexController::class, 'terms_index'])->name('terms');
