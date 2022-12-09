@@ -7,7 +7,7 @@
           <!--Grid column-->
           <div class="col-lg-5 col-md-12 mb-4 mb-md-0">
             <div class="footer-logo">
-              <img src="{{asset('images/logo.png')}}" alt="logo.png" />
+              <img src="{{asset('images/maxx-logo.png')}}" alt="maxx-logo.png" />
             </div>
             <div class="copyfooter">
               &copy; 2022 Copyright:

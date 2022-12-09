@@ -18,11 +18,11 @@
                   Rewards
                 </h1>
                 <p>
-                  Proactively iterate mission-critical processes through impactful potentialities.
+                  100% Free! Download now!! Enjoy Free Gifts!!!
                 </p>
                 <div class="app-img">
-                  <img src="{{asset('images/app.png')}}" alt="app.png" />
-                  <img src="{{asset('images/google.png')}}" alt="google.png" />
+                  <a href="https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=US"><img src="{{asset('images/app.png')}}" alt="app.png" /></a>
+                  <a href="https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=US"><img src="{{asset('images/google.png')}}" alt="google.png" /></a>
                 </div>
               </div>
             </div>
@@ -40,7 +40,7 @@
     <div class="client-section">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12">
+          {{-- <div class="col-sm-12">
             <div class="client-logo">
               <ul>
                 <li>
@@ -60,7 +60,7 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div> --}}
         </div>
       </div>
     </div>
@@ -75,8 +75,7 @@
                 us to <span>Give out Rewards</span>
               </h4>
               <p>
-                Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                amet
+                100% prizes for each scratch. Completely Free. Try now!
               </p>
             </div>
           </div>
@@ -86,22 +85,22 @@
             <div class="col-sm-4">
               <div class="icon-box">
                 <img src="{{asset('images/icon2.png')}}" alt="icon2.png" />
-                <h5>Unlimited Scratchs</h5>
-                <p>Amet minim mollit non deserunt eco estsit aliqua amet.</p>
+                <h5>Free Scratchs</h5>
+                <p>Completely Free Scracths. 1 Scratch in every 30 minutes.</p>
               </div>
             </div>
             <div class="col-sm-4">
               <div class="icon-box">
                 <img src="{{asset('images/icon3.png')}}" alt="icon3.png" />
                 <h5>Daily Rewards</h5>
-                <p>Amet minim mollit non deserunt eco estsit amet sintelit.</p>
+                <p>Daily Rewards for everyday login and 7 scratch in a day.</p>
               </div>
             </div>
             <div class="col-sm-4">
               <div class="icon-box">
                 <img src="{{asset('images/icon4.png')}}" alt="icon4.png" />
                 <h5>Special Campaign</h5>
-                <p>Amet minim mollit non deserunt eco estsit aliqua amet.</p>
+                <p>More Free prizes and discounts on Special Campaign.</p>
               </div>
             </div>
           </div>
@@ -118,10 +117,9 @@
           </div>
           <div class="col-sm-6">
             <div class="grab-head">
-              <h4>Grab coupons for the Best Deals</h4>
+              <h4>Grab the MaxxFortune App for the Best Deals</h4>
               <p>
-                The gateway to sustainability lies in the energy storage. We
-                offer you the key to discover a new world.
+                We offers best discount from our hundrards of enlisted merchants. Get one for you!
               </p>
               <ol>
                 <li>
@@ -129,7 +127,7 @@
                   <span class="list-items">
                     <h5>Discount Copon</h5>
                     <p>
-                      The gateway to sustainability lies in the energy storage.
+                      We are providing hundrads of Discount Copon everyday
                     </p>
                   </span>
                 </li>
@@ -138,16 +136,16 @@
                   <span class="list-items">
                     <h5>Buy one Get One</h5>
                     <p>
-                      The gateway to sustainability lies in the energy storage.
+                      Get one Free item with your purchase.
                     </p>
                   </span>
                 </li>
                 <li>
                   <span>03</span>
                   <span class="list-items">
-                    <h5>Free Product</h5>
+                    <h5>Free Gifts</h5>
                     <p>
-                      The gateway to sustainability lies in the energy storage.
+                      Free Gifts from MaxxFortune for you.
                     </p>
                   </span>
                 </li>
@@ -170,28 +168,28 @@
               <div class="iconbox-step even">
                 <img src="{{asset('images/%e5%a5%96%e6%9d%af_trophy.png')}}" alt="奖杯_trophy.png" />
                 <h3>Scratch & Win Reward</h3>
-                <p>The gateway to sustainability lies in the energy storage.</p>
+                <p>Downlaod the app. Scratch to Win</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step odd">
                 <img src="{{asset('images/%e9%92%b1%e5%8c%85_wallets.png')}}" alt="钱包_wallets.png" />
-                <h3>Collect Reward in Wallet</h3>
-                <p>The gateway to sustainability lies in the energy storage.</p>
+                <h3>Collect Prizes in Wallet</h3>
+                <p>Collect the prize on your wallet.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step even">
                 <img src="{{asset('images/%e5%ba%94%e7%94%a8_application.png')}}" alt="应用_application.png"/>
                 <h3>Go to Nearest Shops</h3>
-                <p>The gateway to sustainability lies in the energy storage.</p>
+                <p>Go to our Nearest MaxxFortune shop to redeem your prize.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step odd">
                 <img src="{{asset('images/%e6%b3%95%e6%a1%88_bill.png')}}" alt="法案_bill.png" />
-                <h3>Redeem Token from Shop</h3>
-                <p>The gateway to sustainability lies in the energy storage.</p>
+                <h3>Redeem Prize from Shop</h3>
+                <p>Enjoy the Free Prize from MaxxFortune.</p>
               </div>
             </div>
           </div>
@@ -215,16 +213,14 @@
               <div class="testmonial">
                 <ul>
                   <li class="imagename">
-                    <img src="{{asset('images/Mask.png')}}" alt="Mask" />
+                    <img src="{{asset('images/DavidWong.png')}}" alt="Mask" />
                   </li>
                   <li class="namedis">
-                    <h5>Elwin Sharvill</h5>
-                    <span>Designer</span>
+                    <h5>David Wong</h5>
+                    <span>User</span>
                   </li>
                 </ul>
-                <q>But nothing the copy said could convince her and so it didn’t
-                  take long until a few insidious Copy Writers ambushed her,
-                  made her drunk.</q>
+                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't beleve its real</q>
               </div>
               <div class="testmonial odd">
                 <ul>
@@ -232,12 +228,11 @@
                     <img src="{{asset('images/Mask2.png')}}" alt="Mask" />
                   </li>
                   <li class="namedis">
-                    <h5>Bernarr Dominik</h5>
-                    <span>Dentist</span>
+                    <h5>Darren Lye</h5>
+                    <span>User</span>
                   </li>
                 </ul>
-                <q>When she reached the first hills of the Italic Mountains, she
-                  had a last view back on the skyline of her</q>
+                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't beleve its real</q>
               </div>
             </div>
             <div class="col-sm-6">
@@ -248,14 +243,10 @@
                   </li>
                   <li class="namedis">
                     <h5>Leonetta Lloyd</h5>
-                    <span>Developer</span>
+                    <span>User</span>
                   </li>
                 </ul>
-                <q>It is a paradisematic country, in which roasted parts of
-                  sentences fly into your mouth. Even the all-powerful Pointing
-                  has no control about the blind texts it is an almost
-                  unorthographic life One day however a small line of blind
-                  text.</q>
+                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't beleve its real</q>
               </div>
               <div class="rating">
                 <img src="{{asset('images/rating.png')}}" alt="rating.png" />
@@ -272,7 +263,7 @@
           <div class="col-sm-5">
             <div class="qr-code">
               <!-- <img src="./images/qrcode.png" alt="qrcode.png" /> -->
-              <h4><span>Get Token</span> & <br/> Reward from <br/> <span>Popular Shops</span></h4>
+              <h4><span>Get Gifts</span> & <br/> Prizes from <br/> <span>Popular Shops</span></h4>
               <div class="row">
                 <div class="col-sm-5">
                   <div class="qr_code">
@@ -290,12 +281,12 @@
               <div class="row">
                 <div class="col-sm-5">
                   <div class="img-btn">
-                   <a href="#"> <img src="images/google.png" alt="google.png"></a>
+                   <a href="https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=US"> <img src="images/google.png" alt="google.png"></a>
                   </div>
                 </div>
                 <div class="col-sm-5">
                   <div class="img-btn">
-                   <a href="#"> <img src="images/app.png" alt="app.png"></a>
+                   <a href="https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=US"> <img src="images/app.png" alt="app.png"></a>
                   </div>
                 </div>
               </div>
