@@ -18,9 +18,9 @@
         <div class="row">
           <div class="col-md-6 col-sm-12">
             <div class="about-head">
-              <h3>We have Achive this.</h3>
+              <h3>What is MaxxFortune!</h3>
               <p>
-                In episode 66, Chris Do talks with art director, illustrator and public speaker, Hank Washington.
+                MaxxFortune is a unique marketing platform for small and mid-size businesses in Singapore. 
               </p>
             </div>
           </div>
@@ -30,20 +30,19 @@
                 <div class="col-sm-6">
                   <div class="marchent">
                     <h3>100+</h3>
-                    <p>Total Merchant</p>
+                    <p>Total Merchants</p>
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="marchent">
-                    <h3>2.1m</h3>
-                    <p>Mobile App Users</p>
+                    <h3>2000+</h3>
+                    <p>MaxxFortune Users</p>
                   </div>
                 </div>
               </div>
               <span>
-                They talk about their experience and feelings about public speaking, finding your voice when giving talks, and how to feel at home in the design world as a person of color. make world
-                beatuiful.
-                </span>
+                We have started our humble journey at January 2023, under MaxxFortune Pte. Ltd. We have developed a Machine Learning based Advertising platform for business in Singapore. We believe in Maximum Output with Cost Efficient for Promotional pricing.
+              </span>
             </div>
           </div>
         </div>
@@ -67,27 +66,24 @@
                   </div>
                 </div>
               </div>
-              <h4>Customer-Driven <span>Pro Innovation</span></h4>
+              <h4>Customer-Driven <span>Promotional Pricing</span></h4>
               <p class="paraghrap-aliq">
-                Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et.
-                Sunt qui esse pariatur duis deserunt mollit
+                MaxxFortune platform provides 100% Organic Trafic for Business. 
               </p>
               <div class="row">
                 <div class="col-sm-6">
                   <div class="customer-service">
-                    <h4>Custom Server</h4>
+                    <h4>Organic Trafic</h4>
                     <p>
-                      Objectively formulate client-based convergence and
-                      installed.
+                      Our Trafics are completely organic. We ensure that.
                     </p>
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="machine-learning">
-                    <h4>Machine Learning</h4>
+                    <h4>Cost Efficeint</h4>
                     <p>
-                      Objectively formulate client-based convergence and
-                      installed.
+                      MaxxFortune offers as minimum as 0.01 SGD for each empression.
                     </p>
                   </div>
                 </div>
@@ -95,10 +91,9 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="customer-service">
-                    <h4>Custom Server</h4>
+                    <h4>Better Reach</h4>
                     <p>
-                      Objectively formulate client-based convergence and
-                      installed.
+                      MaxxFortune ensure direct reach to end-customer. No Third-Party
                     </p>
                   </div>
                 </div>
@@ -106,8 +101,7 @@
                   <div class="machine-learning">
                     <h4>Machine Learning</h4>
                     <p>
-                      Objectively formulate client-based convergence and
-                      installed.
+                     Our Machine Learning algorithm will bring you the right customer.
                     </p>
                   </div>
                 </div>
@@ -119,10 +113,10 @@
     </div>
     <div class="our-client">
       <div class="container">
-        <p>OUR CLIENTS</p>
+        <p>OUR MERCHENTS</p>
         <h4>
-          <span>Companies that</span> works with us will confirm <br />
-          that "We are <span>a Great Helping Hand".</span>
+          <span>Companies are</span> connecting with us to provide <br />
+          Free "<span>Discount Coupons and Gifts".</span>
         </h4>
         <div class="row">
           <div class="col-sm-12">
@@ -164,11 +158,11 @@
         <div class="row">
           <div class="col-sm-7">
             <p>Founder Message</p>
-            <h4>Users is our Main Priority</h4>
-            <q>The sky was cloudless and of a deep dark blue the spectacle
-              before us was indeed sublime. The sky was cloudless and of a deep
-              dark blue.</q>
-            <h5>Jason Stephen <span>Ceo of e-wallet app</span></h5>
+            <h4>Best for Organic Trafic</h4>
+            <q>
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+            </q>
+            <h5>Ana Toh <span>CEO of MaxxFortune Pte. Ltd.</span></h5>
           </div>
           <div class="col-sm-5">
             <div class="man">
