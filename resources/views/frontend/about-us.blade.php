@@ -113,7 +113,7 @@
     </div>
     <div class="our-client">
       <div class="container">
-        <p>OUR MERCHENTS</p>
+        <p>OUR MERCHANTS</p>
         <h4>
           <span>Companies are</span> connecting with us to provide <br />
           Free "<span>Discount Coupons and Gifts".</span>

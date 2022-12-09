@@ -40,7 +40,7 @@
             <div class="footer-menu">
               <ul class="list-unstyled">
                 <li>
-                  <a href="{{route('about-us')}}">About us</a>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdW54srI_WXXRl9lCJwHGvRyg-KHCFrHkKus6mFS8tfbvcuhA/viewform?usp=sf_link" target="_blank">Join as a Merchant</a>
                 </li>
                 <li>
                   <a href="{{route('terms')}}">Terms &amp; Policy</a>
