@@ -43,7 +43,7 @@
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdW54srI_WXXRl9lCJwHGvRyg-KHCFrHkKus6mFS8tfbvcuhA/viewform?usp=sf_link" target="_blank">Join as a Merchant</a>
                 </li>
                 <li>
-                  <a href="{{route('terms')}}">Terms &amp; Policy</a>
+                  <a href="{{route('terms')}}">Terms &amp; Conditions</a>
                 </li>
                 <li>
                   <a href="{{route('contact')}}">Contact</a>

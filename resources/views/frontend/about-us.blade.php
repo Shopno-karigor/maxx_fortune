@@ -29,7 +29,7 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="marchent">
-                    <h3>100+</h3>
+                    <h3>1000+</h3>
                     <p>Total Merchants</p>
                   </div>
                 </div>
@@ -73,17 +73,17 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="customer-service">
-                    <h4>Organic Trafic</h4>
+                    <h4>Organic Traffics</h4>
                     <p>
-                      Our Trafics are completely organic. We ensure that.
+                      Our Traffics are completely organic. We ensure that.
                     </p>
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="machine-learning">
-                    <h4>Cost Efficeint</h4>
+                    <h4>Cost Efficient</h4>
                     <p>
-                      MaxxFortune offers as minimum as 0.01 SGD for each empression.
+                      MaxxFortune offers as minimum as 0.01 SGD for each impression.
                     </p>
                   </div>
                 </div>

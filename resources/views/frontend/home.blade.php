@@ -71,11 +71,11 @@
             <div class="partner text-center">
               <img src="{{asset('images/starticon.png')}}" alt="starticon.png" />
               <h4>
-                <span>100+ Partners</span> have already with <br />
-                us to <span>Give out Rewards</span>
+                More than <span>1000+ Partners</span> have joined us to<br />
+                GIVE OUT <span>Free Rewards and Vouchers</span>
               </h4>
               <p>
-                100% prizes for each scratch. Completely Free. Try now!
+                100% prizes for each scratch. It is Completely Free... SCRATCH NOW!
               </p>
             </div>
           </div>
@@ -85,8 +85,8 @@
             <div class="col-sm-4">
               <div class="icon-box">
                 <img src="{{asset('images/icon2.png')}}" alt="icon2.png" />
-                <h5>Free Scratchs</h5>
-                <p>Completely Free Scracths. 1 Scratch in every 30 minutes.</p>
+                <h5>Free Scratch</h5>
+                <p>Completely Free Scratch. 1 Scratch in every 30 minutes.</p>
               </div>
             </div>
             <div class="col-sm-4">
@@ -100,7 +100,7 @@
               <div class="icon-box">
                 <img src="{{asset('images/icon4.png')}}" alt="icon4.png" />
                 <h5>Special Campaign</h5>
-                <p>More Free prizes and discounts on Special Campaign.</p>
+                <p>Free prizes and discounts on Special Campaign.</p>
               </div>
             </div>
           </div>
@@ -119,15 +119,15 @@
             <div class="grab-head">
               <h4>Grab the MaxxFortune App for the Best Deals</h4>
               <p>
-                We offers best discount from our hundrards of enlisted merchants. Get one for you!
+                We offers best discount from our hundreds of enlisted merchants. Get one for you!
               </p>
               <ol>
                 <li>
                   <span>01</span>
                   <span class="list-items">
-                    <h5>Discount Copon</h5>
+                    <h5>Discount Coupon</h5>
                     <p>
-                      We are providing hundrads of Discount Copon everyday
+                      We are providing hundreds of Discount Coupon everyday
                     </p>
                   </span>
                 </li>
@@ -145,7 +145,7 @@
                   <span class="list-items">
                     <h5>Free Gifts</h5>
                     <p>
-                      Free Gifts from MaxxFortune for you.
+                      Free Gifts from MaxxFortune.
                     </p>
                   </span>
                 </li>
@@ -175,7 +175,7 @@
               <div class="iconbox-step odd">
                 <img src="{{asset('images/%e9%92%b1%e5%8c%85_wallets.png')}}" alt="钱包_wallets.png" />
                 <h3>Collect Prizes in Wallet</h3>
-                <p>Collect the prize on your wallet.</p>
+                <p>Collect the prize in your wallet.</p>
               </div>
             </div>
             <div class="col-sm-3">
@@ -220,7 +220,7 @@
                     <span>User</span>
                   </li>
                 </ul>
-                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't beleve its real</q>
+                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't believe its real</q>
               </div>
               <div class="testmonial odd">
                 <ul>
@@ -232,7 +232,7 @@
                     <span>User</span>
                   </li>
                 </ul>
-                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't beleve its real</q>
+                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't believe its real</q>
               </div>
             </div>
             <div class="col-sm-6">
@@ -246,7 +246,7 @@
                     <span>User</span>
                   </li>
                 </ul>
-                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't beleve its real</q>
+                <q>I have won a Dominos Free Pizza from MaxxFortune scratch. I can't believe its real</q>
               </div>
               <div class="rating">
                 <img src="{{asset('images/rating.png')}}" alt="rating.png" />
