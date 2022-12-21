@@ -4,50 +4,47 @@
     <!-- header start  -->
     <header class="header-section">
       @include('frontend.nav')
-      <div class="about-heading about">
+      <div class="about-area">
         <div class="container">
-          <h4>ABOUT US</h4>
+          <div class="row">
+            <div class="about-header-text col-md-6 col-lg-6 col-sm-12">
+              <div class="about-head">
+                <h3>What is MaxxFortune!</h3>
+                <p>
+                  MaxxFortune is a unique marketing platform for small and mid-size businesses in Singapore. 
+                </p>
+              </div>
+            </div>
+            <div class="about-header-text col-md-6 col-lg-6 col-sm-12">
+              <div class="about-head-icon">
+                <div class="row">
+                  <div class="col-sm-6">
+                    <div class="marchent">
+                      <h3>1000+</h3>
+                      <p>Total Merchants</p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="marchent">
+                      <h3>2000+</h3>
+                      <p>MaxxFortune Users</p>
+                    </div>
+                  </div>
+                </div>
+                <span>
+                  We have started our humble journey at January 2023, under MaxxFortune Pte. Ltd. We have developed a Machine Learning based Advertising platform for business in Singapore. We believe in Maximum Output with Cost Efficient for Promotional pricing.
+                </span>
+              </div>
+            </div>
+
+          </div>
         </div>
       </div>
     </header>
     <!-- header end -->
 
     <!-- about start  -->
-    <div class="about-section about-texts">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-sm-12">
-            <div class="about-head">
-              <h3>What is MaxxFortune!</h3>
-              <p>
-                MaxxFortune is a unique marketing platform for small and mid-size businesses in Singapore. 
-              </p>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-12">
-            <div class="about-head-icon">
-              <div class="row">
-                <div class="col-sm-6">
-                  <div class="marchent">
-                    <h3>1000+</h3>
-                    <p>Total Merchants</p>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="marchent">
-                    <h3>2000+</h3>
-                    <p>MaxxFortune Users</p>
-                  </div>
-                </div>
-              </div>
-              <span>
-                We have started our humble journey at January 2023, under MaxxFortune Pte. Ltd. We have developed a Machine Learning based Advertising platform for business in Singapore. We believe in Maximum Output with Cost Efficient for Promotional pricing.
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+
     <div class="our-object">
       <div class="container">
         <div class="row">

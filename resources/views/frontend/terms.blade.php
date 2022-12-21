@@ -4,13 +4,19 @@
     <!-- header start  -->
     <header class="header-section">
       @include('frontend.nav')
+
     </header>
-    <div class="faq-heading text-center">
+
+    <!-- header end -->
+    <div class="terms-heading">
       <div class="container">
-        <h1>Terms & Conditions</h1>
+        <div class="row">
+          <div class="col-lg-12">
+            <h1 class="text-center">Terms & Conditions</h1>
+          </div>
+        </div>
       </div>
     </div>
-    <!-- header end -->
     <!-- terms start  -->
     <div class="terms-section">
       <div class="container">

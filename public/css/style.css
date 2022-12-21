@@ -1,6 +1,5 @@
 /*
-author:Moksedul Islam
-github:https://github.com/moksedul93/
+author:MaxxFortune
 PostCSS: v8.3.6,
 * Autoprefixer: v10.3.1
 * Browsers: last 4 version
@@ -77,7 +76,7 @@ address {
 /* header css start  */
 .header-section {
   background-image: url(../images/bg.svg);
-  height: 463px;
+  /* height: 463px; */
   width: 100%;
   background-size: cover;
   background-position: center center;
@@ -132,7 +131,6 @@ li.nav-item .downloadBtn.nav-link {
 
 /* home css start */
 .partner.text-center {
-  margin-top: 161px;
   position: relative;
 }
 .partner.text-center img {
@@ -201,7 +199,7 @@ li.nav-item .downloadBtn.nav-link {
 }
 
 .grab-coupon {
-  margin-top: 100px;
+  margin-top: 0px;
 }
 
 .grab-head h4 {
@@ -256,7 +254,6 @@ li.nav-item .downloadBtn.nav-link {
   background-size: cover;
   background-position: center center;
   position: relative;
-  margin-top: 155px;
   padding: 0 55px;
 }
 .step-down h4 {
@@ -292,10 +289,6 @@ li.nav-item .downloadBtn.nav-link {
 }
 .iconbox-step.odd {
   margin-top: 120px;
-}
-.offer-section {
-  background: #fff5f6;
-  padding: 85px 0px;
 }
 
 .qr-code img,
@@ -382,12 +375,8 @@ img.starIcon {
   float: left;
   width: 35%;
 }
-.testmonial.full {
-  margin-top: 35px;
-}
-.home-left {
-  margin: 90px auto;
-}
+
+
 .home-left h1 {
   font-size: 75px;
   line-height: 91px;
@@ -404,9 +393,7 @@ img.starIcon {
   width: 44px;
   height: auto;
 }
-.client-section {
-  margin-top: 150px;
-}
+
 .home-left p {
   font-size: 22px;
   line-height: 40px;
@@ -432,17 +419,13 @@ img.starIcon {
 /* home css end  */
 
 /* about start */
-.about-section.about-texts {
-  margin-top: -294px;
-}
-.about-heading h4 {
+
+.about-heading{
   font-family: "Inter";
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   color: #4d5466;
-  position: absolute;
-  bottom: 65%;
 }
 .founder-message h5 {
   font-family: "Inter";
@@ -868,10 +851,10 @@ button.btn.btn-dark {
   height: auto;
 }
 .offer img {
-  height: 600px;
+  height: auto;
 }
 .qr_code h5 {
-  font-family: 'Roboto';
+  font-family: 'Lexend_sami';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -879,11 +862,7 @@ button.btn.btn-dark {
   color: #4D5466;
   margin: 29px 0;
 }
-.img-btn img {
-  width: 177px;
-  height: auto;
-  margin-top: 61px;
-}
+
 /* faq css end  */
 
 /* footer start  */
