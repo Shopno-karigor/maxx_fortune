@@ -2,36 +2,42 @@
   @section('contact-us')
     <title>Maxx Fortune | Contact Us</title>
     <!-- header start  -->
-    <header class="header-section">
+    <header class="header-section contact">
       @include('frontend.nav')
-    </header>
-    <!-- header end -->
-    <div class="faq-heading contact text-center">
-      <div class="continer"><h1>Get in Touch</h1></div>
-    </div>
-    <!-- faq start  -->
-    <div class="contact-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-4">
-            <div class="email">
-              <h2>Say Hello</h2>
-              <span>{{$response->contact_email}}</span>
+      <div class="contact-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12 contact-us-title">
+              <h1 class="text-center">Get in Touch</h1>
             </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="email">
-              <h2>You are here</h2>
-              <span>{{$response->contact_website}}</span>
+            <div class="col-lg-4 col-md-4 col-sm-4 contact-us-info">
+              <div class="email">
+                <h2>Say Hello</h2>
+                <span>{{$response->contact_email}}</span>
+              </div>
             </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="email">
-              <h2>We are Here!</h2>
-              <span>{{$response->contact_address}}</span>
+            <div class="col-lg-4 col-md-4 col-sm-4  contact-us-info">
+              <div class="email">
+                <h2>You are here</h2>
+                <span>{{$response->contact_website}}</span>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 contact-us-info">
+              <div class="email">
+                <h2>We are Here!</h2>
+                <span>{{$response->contact_address}}</span>
+              </div>
             </div>
           </div>
         </div>
+      </div>
+    </header>
+    <!-- header end -->
+
+    <!-- faq start  -->
+    <div class="contact-section">
+      <div class="container">
+
 
         <div class="bg-contact-fileds">
           @if(Session('error'))

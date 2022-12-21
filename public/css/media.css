@@ -40,6 +40,20 @@
   .our-client {
     margin-top: 100px;
   }
+  /* contact us */
+  .contact-us-title{
+    margin-top: 100px;
+  }
+  .contact-us-info{
+    margin-top: 100px;
+  }
+  .contact-section{
+    margin-top: 100px;
+  }
+  .bg-contact-fileds {
+    padding: 85px 110px;
+    margin: 100px 0 100px;
+  }
 
 }
 /*Large devices*/
@@ -245,7 +259,7 @@
     object-fit: cover;
   }
   .contact-map {
-    margin-top: 500px;
+    margin-top: 200px;
   }
   .contact-map h4.text-center {
     font-size: 40px;
@@ -272,7 +286,7 @@
     margin-bottom: 45px;
   }
   .email {
-    margin-bottom: 40px;
+    margin-bottom: 0px;
   }
   .about-head h3 {
     font-size: 32px;
@@ -519,5 +533,13 @@
   }
   .about-head-icon span {
     margin-top: 20px;
+  }
+
+  /* contact us */
+  .header-section.contact {
+    height: auto;
+  }
+  .contact-us-info{
+    margin-top: 40px;
   }
 }

@@ -631,11 +631,6 @@ img.starIcon {
   font-weight: 400;
   font-family: "Inter";
 }
-.bg-contact-fileds {
-  padding: 85px 110px;
-  margin: 100px 0 200px;
-}
-
 .msg-body img {
   width: 102px;
   height: auto;
