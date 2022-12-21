@@ -2,7 +2,7 @@
   @section('about-us')
     <title>Maxx Fortune | About Us</title>
     <!-- header start  -->
-    <header class="header-section">
+    <header class="header-section about">
       @include('frontend.nav')
       <div class="about-area">
         <div class="container">
@@ -44,14 +44,13 @@
     <!-- header end -->
 
     <!-- about start  -->
-
     <div class="our-object">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6">
-            <img src="{{asset('images/object.png')}}" alt="object.png" />
+          <div class="col-sm-6 col-md-6 col-lg-6">
+            <img src="{{asset('images/object.png')}}" alt="object.png" class="img-responsive" />
           </div>
-          <div class="col-sm-6">
+          <div class="col-sm-6 col-sm-6 col-md-6 col-lg-6">
             <div class="object-paragraph">
               <div class="row">
                 <div class="col-sm-6 col-small">
@@ -108,6 +107,7 @@
         </div>
       </div>
     </div>
+
     <div class="our-client">
       <div class="container">
         <p>OUR MERCHANTS</p>
@@ -155,7 +155,7 @@
         <div class="row">
           <div class="col-sm-7">
             <p>Founder Message</p>
-            <h4>Best for Organic Trafic</h4>
+            <h4>Best for Organic Traffic</h4>
             <q>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
             </q>

@@ -470,15 +470,11 @@ img.starIcon {
   font-family: "Inter";
   line-height: 30px;
   font-weight: 400;
-  margin-top: 65px;
   display: inline-block;
 }
 .our-object img {
   width: 100%;
   height: auto;
-}
-.our-object {
-  margin-top: 197px;
 }
 .star img {
   width: 71px;
@@ -528,7 +524,6 @@ img.starIcon {
   font-family: "Inter";
   line-height: 30px;
   color: #4d5466;
-  margin-top: 150px;
 }
 
 .our-client {

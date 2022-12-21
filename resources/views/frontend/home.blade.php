@@ -36,7 +36,7 @@
       </div>
     </header>
     <!-- header end -->
-    <!-- about start  -->
+    <!-- home start  -->
     <div class="client-section">
       <div class="container">
         <div class="row">
