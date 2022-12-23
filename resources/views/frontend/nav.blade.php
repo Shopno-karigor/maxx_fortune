@@ -10,7 +10,7 @@
             <a class="nav-link" href="{{route('about-us')}}">About Us <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{route('contact')}}">Contact</a>
+            <a class="nav-link" href="{{route('contact')}}">Contact Us</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{route('faq')}}">Faq</a>

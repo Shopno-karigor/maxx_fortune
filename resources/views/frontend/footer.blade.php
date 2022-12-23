@@ -45,12 +45,12 @@
                 <li>
                   <a href="{{route('terms')}}">Terms &amp; Conditions</a>
                 </li>
-                <li>
+                {{-- <li>
                   <a href="{{route('contact')}}">Contact</a>
                 </li>
                 <li>
                   <a href="{{route('faq')}}">Faq</a>
-                </li>
+                </li> --}}
               </ul>
             </div>
           </div>

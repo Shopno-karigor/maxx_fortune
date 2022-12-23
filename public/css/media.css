@@ -64,6 +64,15 @@
     line-height: 64px;
     letter-spacing: -0.005em;
   }
+  .terms-title{
+    margin: 100px 0 100px;
+    font-family: Lexend;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 64px;
+    letter-spacing: -0.005em;
+  }
 
 }
 /*Large devices*/
@@ -231,6 +240,11 @@
     margin-top: 30px;
   }
   .faq-title {
+    margin-top: 0;
+    font-size: 30px;
+    margin-bottom: 90px;
+  }
+  .terms-title {
     margin-top: 0;
     font-size: 30px;
     margin-bottom: 90px;
@@ -498,15 +512,6 @@
   footer.footer-section {
     padding-top: 20px;
   }
-  .terms-heading{
-    margin-top: 0px;
-  }
-  .terms-heading h1 {
-    font-size: 24px;
-    margin-top: 0px;
-    line-height: inherit;
-    margin-bottom: 0px;
-  }
   .header-section {
     height: 200px;
   }
@@ -552,9 +557,34 @@
   .contact-us-info{
     margin-top: 40px;
   }
+  .contact-area h1 {
+    font-size: 24px;
+    margin-top: 0px;
+    line-height: inherit;
+    margin-bottom: 0px;
+  }
   /* faq */
   .header-section.faq {
     height: auto;
+  }
+  .faq-heading h1 {
+    font-size: 24px;
+    margin-top: 0px;
+    line-height: inherit;
+    margin-bottom: 0px;
+  }
+  /* Terms */
+  .header-section.terms {
+    height: auto;
+  }
+  .terms-heading{
+    margin-top: 0px;
+  }
+  .terms-heading h1 {
+    font-size: 24px;
+    margin-top: 0px;
+    line-height: inherit;
+    margin-bottom: 0px;
   }
 
 }

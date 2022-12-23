@@ -2,21 +2,20 @@
   @section('terms')
     <title>Maxx Fortune | Terms & Conditions</title>
     <!-- header start  -->
-    <header class="header-section">
+    <header class="header-section terms">
       @include('frontend.nav')
-
-    </header>
-
-    <!-- header end -->
-    <div class="terms-heading">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <h1 class="text-center">Terms & Conditions</h1>
+      <div class="terms-heading">
+        <div class="continer">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12 terms-title">
+              <h1 class="text-center">Terms & Conditions</h1>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </header>
+    <!-- header end -->
+
     <!-- terms start  -->
     <div class="terms-section">
       <div class="container">
