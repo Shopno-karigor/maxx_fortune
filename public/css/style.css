@@ -726,20 +726,6 @@ div#accordionExample {
   width: 690px;
   margin: auto;
 }
-/* .faq-heading.text-center {
-      position: absolute;
-      top: 25%;
-      left: 32%;
-  } */
-.faq-heading.text-center h1 {
-  margin: -230px 0 140px;
-  font-family: Lexend;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 54px;
-  line-height: 64px;
-  letter-spacing: -0.005em;
-}
 
 .faqHeader {
   font-size: 27px;

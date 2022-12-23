@@ -2,13 +2,20 @@
   @section('faq')
     <title>Maxx Fortune | FAQ</title>
     <!-- header start  -->
-    <header class="header-section">
+    <header class="header-section faq">
       @include('frontend.nav')
+      <div class="faq-heading">
+        <div class="continer">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12 faq-title">
+              <h1 class="text-center">Frequently Asked Question</h1>
+            </div>
+          </div>
+        </div>
+      </div>
     </header>
     <!-- header end -->
-    <div class="faq-heading text-center">
-      <div class="continer"><h1>Frequently Asked Question</h1></div>
-    </div>
+
     <!-- faq start  -->
     <div class="faq-section">
       <div class="container">
@@ -31,7 +38,6 @@
             </div>
           </div>
           @endforeach
-
         </div>
       </div>
     </div>
