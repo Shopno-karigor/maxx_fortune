@@ -1,6 +1,9 @@
-@media (min-width: 992px) and (max-width: 3600px) {
+@media (min-width: 1024px) and (max-width: 3600px) {
   .home-left {
     margin: 90px auto;
+  }
+  .app-img {
+    margin-top: 85px;
   }
   .client-section {
     margin-top: 0px;
@@ -76,9 +79,19 @@
 
 }
 /*Large devices*/
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 1023px) {
   .header-section:after {
     position: relative;
+  }
+  .offer-section {
+    background: #fff5f6;
+    padding: 15px 0px;
+  }
+  .app-img {
+    margin-top: 25px;
+  }
+  .app-img img {
+    margin-right: 10px;
   }
   .msg-body h2 {
     font-size: 36px;
@@ -91,8 +104,8 @@
     font-size: 48px;
   }
   .bg-contact-fileds {
-    padding: 85px 45px;
-    margin: 50px 0 140px;
+    padding: 85px 45px 0px 40px;
+    margin: 50px 0 70px;
   }
   .contact-map img {
     object-fit: cover;
@@ -120,13 +133,13 @@
     margin-left: 35px;
   }
   .client-section {
-    margin-top: 100px;
+    margin-top: 50px;
   }
   .partner.text-center {
-    margin-top: 75px;
+    margin-top: 25px;
   }
   .partner.text-center h4 {
-    font-size: 34px;
+    font-size: 32px;
     line-height: 45px;
   }
   .partner.text-center p {
@@ -140,7 +153,7 @@
     font-size: 20px;
   }
   .grab-coupon {
-    margin-top: 100px;
+    margin-top: 50px;
   }
   .grab-head h4 {
     font-size: 24px;
@@ -158,6 +171,12 @@
     font-size: 13px;
     margin-top: 15px;
   }
+  .step-fours{
+    margin-top: 50px;
+  }
+  .step-down {
+    padding: 0 5px;
+}
   .quote-text.text-center h4 {
     font-size: 33px;
     line-height: 42px;
@@ -209,7 +228,9 @@
     margin-bottom: 92px;
   }
   .founder-message {
-    margin-top: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
   .founder-message h4 {
     font-size: 32px;
@@ -237,7 +258,7 @@
     margin-bottom: 20px;
   }
   .our-client {
-    margin-top: 30px;
+    margin-top: 100px;
   }
   .faq-title {
     margin-top: 0;
@@ -257,9 +278,6 @@
   .header-section.faq {
     height: 400px;
   }
-  header.header-section.contact {
-    height: 400px;
-  }
   .tab-pane-main div#myTabContent {
     padding-right: 0;
   }
@@ -269,6 +287,26 @@
   .copyfooter,
   .footer-logo {
     text-align: center;
+  }
+  .header-section.about {
+    height: auto;
+  }
+  .header-section.contact {
+    height: auto;
+  }
+  .contact-us-title{
+    margin-top: 100px;
+  }
+  .contact-us-info{
+    margin-top: 40px;
+  }
+  /* faq */
+  .header-section.faq {
+    height: auto;
+  }
+  /* Terms */
+  .header-section.terms {
+    height: auto;
   }
 }
 /*Medium devices*/
@@ -283,7 +321,7 @@
     object-fit: cover;
   }
   .contact-map {
-    margin-top: 200px;
+    margin-top: 250px;
   }
   .contact-map h4.text-center {
     font-size: 40px;
@@ -447,7 +485,7 @@
     height: auto;
   }
   .step-down h4 {
-    margin-left: 30px;
+    margin-left: 0px;
     font-size: 30px;
     line-height: 45px;
     top: 75px;

@@ -7,7 +7,7 @@
       <div class="home-area">
         <div class="container">
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-7 col-md-7 col-lg-6">
               <div class="home-left">
                 <h1>
                   Scratch
@@ -26,7 +26,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-5 col-md-5 col-lg-6">
               <div class="img-bg">
                 <img src="{{asset('images/bg-head.png')}}" alt="bg-head.png" />
               </div>
