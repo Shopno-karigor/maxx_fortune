@@ -166,28 +166,28 @@
           <div class="row">
             <div class="col-sm-3">
               <div class="iconbox-step even">
-                <img src="{{asset('images/%e5%a5%96%e6%9d%af_trophy.png')}}" alt="奖杯_trophy.png" />
+                <img src="{{asset('images/trophy.png')}}" alt="trophy.png" />
                 <h3>Scratch & Win Reward</h3>
                 <p>Downlaod the app. Scratch to Win</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step odd">
-                <img src="{{asset('images/%e9%92%b1%e5%8c%85_wallets.png')}}" alt="钱包_wallets.png" />
+                <img src="{{asset('images/wallets.png')}}" alt="wallets.png" />
                 <h3>Collect Prizes in Wallet</h3>
                 <p>Collect the prize in your wallet.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step even">
-                <img src="{{asset('images/%e5%ba%94%e7%94%a8_application.png')}}" alt="应用_application.png"/>
+                <img src="{{asset('images/application.png')}}" alt="application.png"/>
                 <h3>Go to Nearest Shops</h3>
                 <p>Go to our Nearest MaxxFortune shop to redeem your prize.</p>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="iconbox-step odd">
-                <img src="{{asset('images/%e6%b3%95%e6%a1%88_bill.png')}}" alt="法案_bill.png" />
+                <img src="{{asset('images/bill.png')}}" alt="bill.png" />
                 <h3>Redeem Prize from Shop</h3>
                 <p>Enjoy the Free Prize from MaxxFortune.</p>
               </div>

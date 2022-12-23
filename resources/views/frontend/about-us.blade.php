@@ -110,7 +110,7 @@
 
     <div class="our-client">
       <div class="container">
-        <p>OUR MERCHANTS</p>
+        <p>OUR TOP MERCHANTS</p>
         <h4>
           <span>Companies are</span> connecting with us to provide <br />
           Free "<span>Discount Coupons and Gifts".</span>
@@ -121,27 +121,27 @@
               <ul>
                 <li>
                   <a href="#"
-                    ><img src="{{asset('images/AirbnbLogo.png')}}" alt="AirbnbLogo.png"
+                    ><img src="{{asset('images/longquan.png')}}" alt="longquan.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="{{asset('images/GoogleLogo.png')}}" alt="GoogleLogo.png"
+                    ><img src="{{asset('images/upodesta.png')}}" alt="upodesta.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="{{asset('images/MicrosoftLogo.png')}}" alt="MicrosoftLogo.png"
+                    ><img src="{{asset('images/nine-construction.png')}}" alt="nine-construction.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="{{asset('images/WalmartLogo.png')}}" alt="WalmartLogo.png"
+                    ><img src="{{asset('images/eurolink.png')}}" alt="eurolink.png"
                   /></a>
                 </li>
                 <li>
                   <a href="#"
-                    ><img src="{{asset('images/amazonLogo.png')}}" alt="amazonLogo.png"
+                    ><img src="{{asset('images/tani.png')}}" alt="tani.png"
                   /></a>
                 </li>
               </ul>
