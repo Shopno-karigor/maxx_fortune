@@ -18,8 +18,8 @@ use App\Http\Controllers\TermsController;
 */
 
 Route::get('/',[IndexController::class, 'home_index'])->name('/');
-Route::get('About_Us',[IndexController::class, 'about_us_index'])->name('about-us');
-Route::get('Contact',[ContactController::class, 'show'])->name('contact');
-Route::post('Contact_store',[ContactController::class, 'store'])->name('store-customer-query');
-Route::get('FAQ',[FaqController::class, 'show'])->name('faq');
-Route::get('Terms&Condition',[TermsController::class, 'index'])->name('terms');
+Route::get('about_us',[IndexController::class, 'about_us_index'])->name('about-us');
+Route::get('contact',[ContactController::class, 'show'])->name('contact');
+Route::post('contact_store',[ContactController::class, 'store'])->name('store-customer-query');
+Route::get('faq',[FaqController::class, 'show'])->name('faq');
+Route::get('privacy_and_policy',[TermsController::class, 'index'])->name('terms');

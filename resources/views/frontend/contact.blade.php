@@ -10,22 +10,16 @@
             <div class="col-sm-12 col-md-12 col-lg-12 contact-us-title">
               <h1 class="text-center">Get in Touch</h1>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 contact-us-info">
+            <div class="col-lg-6 col-md-6 col-sm-6 contact-us-info">
               <div class="email">
                 <h2>Say Hello</h2>
-                <span>{{$response->contact_email}}</span>
+                <span>hello@maxxfortune.com</span>
               </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4  contact-us-info">
+            <div class="col-lg-6 col-md-6 col-sm-6 contact-us-info">
               <div class="email">
-                <h2>You are here</h2>
-                <span>{{$response->contact_website}}</span>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 contact-us-info">
-              <div class="email">
-                <h2>We are Here!</h2>
-                <span>{{$response->contact_address}}</span>
+                <h2>You are Here!</h2>
+                <span>www.maxxfortune.com</span>
               </div>
             </div>
           </div>
@@ -43,14 +37,12 @@
           @if(Session('error'))
             <div class="alert alert-danger alert-dismissible">
               <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-              <h5><i class="fa fa-exclamation-circle"></i> Error!</h5>
               {{ Session('error') }}
             </div>
           @endif
           @if(Session('success'))
             <div class="alert alert-success alert-dismissible">
               <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-              <h5><i class="fa fa-check"></i> Success!</h5>
               {{ Session('success') }}
             </div>
           @endif
