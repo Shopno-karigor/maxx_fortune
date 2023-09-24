@@ -10,8 +10,8 @@
               <img src="{{asset('images/maxx-logo.png')}}" alt="maxx-logo.png" />
             </div>
             <div class="copyfooter">
-              &copy; 2022 Copyright:
-              <a class="e-wallet" href="#">Maxx Fortune</a> All Rights Reserved
+              &copy; {{date("Y")}} Copyright:
+              <a class="e-wallet" href="#">MaxxFortune</a> All Rights Reserved
             </div>
             <!-- Copyright -->
           </div>
@@ -43,14 +43,8 @@
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdW54srI_WXXRl9lCJwHGvRyg-KHCFrHkKus6mFS8tfbvcuhA/viewform?usp=sf_link" target="_blank">Join as a Merchant</a>
                 </li>
                 <li>
-                  <a href="{{route('terms')}}">Terms &amp; Conditions</a>
+                  <a href="{{route('terms')}}">Privacy &amp; Policy</a>
                 </li>
-                {{-- <li>
-                  <a href="{{route('contact')}}">Contact</a>
-                </li>
-                <li>
-                  <a href="{{route('faq')}}">Faq</a>
-                </li> --}}
               </ul>
             </div>
           </div>
